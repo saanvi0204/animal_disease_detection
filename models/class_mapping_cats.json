@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "cat with abscesses",
+    "cat with feline acne",
+    "cat with mange",
+    "healthy cat"
+  ],
+  "class_to_idx": {
+    "cat with abscesses": 0,
+    "cat with feline acne": 1,
+    "cat with mange": 2,
+    "healthy cat": 3
+  }
+}

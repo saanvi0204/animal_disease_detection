@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Data (do not commit raw images)
+data/
+raw_cats/
+raw_dogs/
+
+# # Model weights (large binaries — use Git LFS or releases)
+# models/*.pth
+
+# # Results
+# results/gradcam_outputs/*.png
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

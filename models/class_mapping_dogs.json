@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "dog with alopecia",
+    "dog with bacterial dermatosis",
+    "dog with lupus",
+    "healthy dog"
+  ],
+  "class_to_idx": {
+    "dog with alopecia": 0,
+    "dog with bacterial dermatosis": 1,
+    "dog with lupus": 2,
+    "healthy dog": 3
+  }
+}
