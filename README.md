@@ -2,9 +2,6 @@
 
 > Deep learning system for detecting skin diseases in cats and dogs using **EfficientNet-B0** with **Grad-CAM** visual explanations.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
-
 ---
 
 ## Problem
@@ -144,7 +141,7 @@ animal-disease-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/saanvi0204/animal_disease_detection.git
 cd animal-disease-detection
 ```
 
