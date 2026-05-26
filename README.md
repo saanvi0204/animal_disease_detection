@@ -1,4 +1,4 @@
-# 🐾 VetVision: Explainable Animal Disease Detection
+# 🐾 Explainable Animal Disease Detection
 
 > Deep learning system for detecting skin diseases in cats and dogs using **EfficientNet-B0** with **Grad-CAM** visual explanations.
 
